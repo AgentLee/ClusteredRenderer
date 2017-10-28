@@ -11,17 +11,15 @@ WebGL Clustered Deferred and Forward+ Shading
 
 In this project, I was able to explore **Clustered Forward+ and Deferred Shading**. 
 
-### Live Online
+### Live Demo
 
-[![](images/blinn.PNG)](http://TODO.github.io/Project5B-WebGL-Deferred-Shading)
-
-### Demo
-
-![](images/shading.gif)
+[![](images/shading.gif)](http://TODO.github.io/Project5B-WebGL-Deferred-Shading)
 
 # Clustered Forward+
 
 ![](images/forward+.gif)
+
+
 
 # Clustered Deferred
 
